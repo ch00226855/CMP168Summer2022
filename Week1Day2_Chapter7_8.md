@@ -38,7 +38,7 @@ c5 = F2C(f5);
 - The **access modifier** `public` indicates the method may be called from any class in the program.
 - The access modifier `static` indicates the method only uses values that are passed to the method.
 
-**Exercise**: p6.1.4 Method basics
+**Exercise**: p7.1.4 Method basics
 
 ### Return Statement
 
@@ -56,15 +56,15 @@ A programmer can influence a method's behavior via an input.
 - A parameter is like a variable declaration. Upon a call, the parameter's memory location is allocated, and the parameter is assigned with the argument's value. Upon returning to the original call location, the parameter is deleted from memory.
 - A method definition may have multiple parameters, separated by commas.
 
-**Exercise**: c6.1.1 Basic method call, c6.1.3 Volume of a pyramid.
+**Exercise**: c7.1.1 Basic method call, c7.1.3 Volume of a pyramid.
 
 ### Methods with Branches / Loops
 
 A method's block of statements may include branches, loops, and other statements.
 
-**Exercise**: c6.5.2 Popcorn
+**Exercise**: c7.5.2 Popcorn
 
-**Exercise**: c6.5.3 Shampoo
+**Exercise**: c7.5.3 Shampoo
 
 ### Scope of Variable / Method Definitions
 
@@ -101,7 +101,7 @@ public class DatePrinter {
 }
 ```
 
-**Exercise**: p6.10.1 Method name overloading
+**Exercise**: p7.10.1 Method name overloading
 
 ## Review of Chapter 8 Arrays
 
