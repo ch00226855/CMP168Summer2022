@@ -64,7 +64,7 @@ A method's block of statements may include branches, loops, and other statements
 
 **Exercise**: c7.5.2 Popcorn
 
-**Exercise**: c7.5.3 Shampoo
+**Exercise**: c7.6.2 Shampoo
 
 ### Scope of Variable / Method Definitions
 
