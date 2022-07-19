@@ -123,7 +123,7 @@ int[] gameScores;
 gameScores = new int[4];
 ```
 
-**Exercise**: p7.2.3 Array basics
+**Exercise**: p8.2.3 Array basics
 
 ### Iterating Through Arrays
 
@@ -132,14 +132,14 @@ for (i = 0; i < myArray.length; i++) {
    // Loop body accessing myArray[i]
 }
 ```
-**Exercise**: c7.4.5 Printing array elements separated by commas
+**Exercise**: c8.4.5 Printing array elements separated by commas
 
 ### Modifying an Array with a Loop
 A program may need to modify elements while iterating through an array.
 
-**Exercise**: c7.7.1 Decrement array elements
+**Exercise**: c8.7.1 Decrement array elements
 
-**Exercise**: c7.7.2 Copy and modify array elements
+**Exercise**: c8.7.2 Copy and modify array elements
 
 ### Array Parameters
 
