@@ -101,7 +101,7 @@ public class DatePrinter {
 }
 ```
 
-**Exercise**: p7.10.1 Method name overloading
+**Exercise**: p7.11.1 Method name overloading
 
 ## Review of Chapter 8 Arrays
 
