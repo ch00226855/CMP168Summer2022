@@ -12,7 +12,7 @@
 
 An **abstract class** is a class that guides the design of subclasses but cannot itself be instantiated as an object. 
 
-**Ex:** An abstract `Shape` class might also specify that any subclass must define a `computeArea()` method. (p10.1.1, p10.1.2)
+**Ex:** An abstract `Shape` class might also specify that any subclass must define a `computeArea()` method. (p14.1.1, p14.1.2)
 
 - An **abstract method** is a method that is not implemented in the base class, thus all derived classes must override the function.
 - An abstract method is denoted by the keyword `abstract` in front of the method signature. Ex: `abstract double computeArea();`
