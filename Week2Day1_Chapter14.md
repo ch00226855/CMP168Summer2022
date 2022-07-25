@@ -1,5 +1,5 @@
 # Week 2 Day 1
-# Chapter 12 Abstract Class and Interfaces
+# Chapter 14 Abstract Class and Interfaces
 
 **Motivating Problem:** Suppose you lead a team of 5 programmers. Your team's task is to create all types of vehicles in a virtual reality software. Here are your expectations to your teammates:
 - Junior programmer A: Create a `Car` class. A car should be able to accelerate, brake, and honk.
@@ -26,7 +26,7 @@ An **abstract class** is a class that guides the design of subclasses but cannot
 
 ![](https://i.stack.imgur.com/GDPOs.png)
 
-UML uses *italics* for abstract classes and methods. (p12.3.3, p12.3.4)
+UML uses *italics* for abstract classes and methods. (p14.3.3, p14.3.4)
 
 **Example**: Pets
 ![](https://github.com/ch00226855/CMP168Summer2021/raw/main/images/chp10_AbstractClass.png)
@@ -53,12 +53,12 @@ Java does not allow *multiple inheritance* to avoid inheriting a variable or met
 - A class can implement multiple interfaces using a comma separated list.
 - An implementing class must override and implement all the abstract methods from the interfaces.
 
-**Exercise**: p12.4.1 Comparison of interfaces and abstract classes
+**Exercise**: p14.4.1 Comparison of interfaces and abstract classes
 
 - UML Diagrams denote interfaces using the keyword interface, inside double angle brackets, above the class name.
 - Classes that implement the interface have a dashed line with an unfilled arrow pointing at the interface.
 
-**Exercise**: p12.4.2: UML interfaces
+**Exercise**: p14.4.2: UML interfaces
 
 **Exercise**: Pets that can eat and speak
 ![](https://github.com/ch00226855/CMP168Summer2021/raw/main/images/chp10_Interface.png)
