@@ -70,8 +70,8 @@ public class ClassName implements Comparable<Type> {
 ## Chapter 16
 **Error-checking code** is code a programmer writes to detect and handle errors that occur during program execution. An exception is a circumstance that a program was not designed to handle, such as if the user enters a negative height.
 
-- Figure 11.1.1: BMI example without error checking
-- Figure 11.1.2: BMI example with error-checking code but without using exception-handling constructs
+- Figure 16.1.1: BMI example without error checking
+- Figure 16.1.2: BMI example with error-checking code but without using exception-handling constructs
 
 **Exception-handing constructs**
 ```java
