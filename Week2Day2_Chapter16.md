@@ -38,7 +38,7 @@ for (int i = 0; i < aryList.size(); i++) {
 
 
 ## The Comparable Interface
-It is a common programming task to sort elements of an array or other data collections. In order for the built-in `sort()` method to work, objects created from a user-defined class must implement the `Comparible` interface, which declares the `compareTo()` method. Here we study how to implement `Comparible`, and in Chapter 13 we will see how a Java *arrayList* can sort comparible objects.
+It is a common programming task to sort elements of an array or other data collections. In order for the built-in `sort()` method to work, objects created from a user-defined class must implement the `Comparible` interface, which declares the `compareTo()` method. Here we study how to implement `Comparible`, and in Chapter 19 we will see how a Java *arrayList* can sort comparible objects.
 
 **Syntax**:
 ```java
