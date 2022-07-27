@@ -43,7 +43,7 @@ Use if statements to test your methods and print “FAILED” or “SUCCESS” d
 
 Add to the class Dog from Exercise \#1
 
-- \- isValid(int x) : boolean	// helper method, only positive values are valid
+- \- isValid(double x) : boolean	// helper method, only positive values are valid
 
 - \+ Dog( String name ) 
 - \+ Dog( String name, double weight, double height ) 
