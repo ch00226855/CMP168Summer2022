@@ -90,7 +90,12 @@ Classes `java.awt.Graphics` and `java.awt.Graphics2D` act as paint brushes. `Gra
 - Font names: `Serif`, `SansSerif`, `Monospaced`, `Dialog`
 - Font styles: `Font.PLAIN`, `Font.ITALIC`, `Font.BOLD`, `Font.ITALIC + Font.BOLD`
 
-**Example**: Create a 3-by-3 Tic Tac Toe board with two player names.
+**Example**: Can you draw the following images?
+
+![Pac Man](images/PacMan.png)
+
+
+![Snowman](images/SnowMan.png)
 
 ## The MVC Framework
 A Java graphical application is created based on a **model-view-controller (MVC)** framework:
