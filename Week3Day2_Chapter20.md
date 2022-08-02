@@ -1,5 +1,29 @@
 # Week 3 Day 2
-# Chapter 14 GUI (Continued)
+
+## Two-Dimensional Arrays
+
+A **two-dimensional** array is used to contains values across multiple rows and columns. 
+
+![](https://media.geeksforgeeks.org/wp-content/uploads/two-d.png)
+
+**Declaration**:
+```java
+int[][] ary = new int[3][5];
+```
+- `int[][]` declares a 2D array of integers.
+- `[3]` defines the number of rows.
+- `[5]` defines the number of columns
+
+Under the hood, a 2D array is implemented as an array of arrays. For example, `int[][] ary = new int[2][3]` allocates a 2-element array, where each array element is itself a 3-element array.
+
+**Exercise**: Create a table of driving distances.
+  |          | Boston | Chicago | Los Angeles |
+  |----------|--------|---------|-------------|
+  |Boston    |0       | 960     | 2960        |
+  |Chicago   |960     | 0       | 2011        |
+  |LA        |2960    | 2011    | 0           |
+
+# Chapter 20 GUI (Continued)
 
 ## Swing GUI Components
 <img src="https://github.com/ch00226855/CMP168Summer2021/raw/main/images/chp14_SwingComponents.png" width="600">
