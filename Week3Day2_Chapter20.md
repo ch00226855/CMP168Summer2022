@@ -52,3 +52,11 @@ User input is handled by various action listeners.
 <img src="https://github.com/ch00226855/CMP168Summer2021/raw/main/images/chp14_ListenersMethods.png" width="600">
 
 <img src="https://github.com/ch00226855/CMP168Summer2021/raw/main/images/chp14_ListenersMethods2.png" width="600">
+
+**Exercises**:
+
+![](images/GUI1.png)
+
+![](images/GUI2.png)
+
+![](images/GUI3.png)
