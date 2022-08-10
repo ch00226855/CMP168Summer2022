@@ -13,7 +13,7 @@
 - Read from a file: Scanner, FileInputStream
 - Write to a file: PrintWriter, FileOutputStream
 - Exception handling with file I/O: FileNotFoundException
-- String and character manipulation
+- String and character manipulation: Useful methods introduced in Sec. 4.13 - 4.16.
 
 **Exercise**: 
 1. File Integers.txt contains a group of integers in the following format:
