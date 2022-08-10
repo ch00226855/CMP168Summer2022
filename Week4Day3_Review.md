@@ -21,6 +21,7 @@
 ![](images/FinalReview01.png)
 
 Write a program to find the largest and the smallest integer in the file. Use exception handling properly so that the program does not crash if the file does not exist.
+
 2. Write a program that generates a file August.txt that indicates which day of week it is for each day in August, 2022. The first five row of the file should look like this:
 
 ![](images/FinalReview02.png)
